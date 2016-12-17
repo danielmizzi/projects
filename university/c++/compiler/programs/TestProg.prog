@@ -1,0 +1,20 @@
+//3 + 2 * 5 - 1
+var y : int = 0;
+var y : int = 1 + 2 - 3 - funcPow(5 + 2);
+set y = 2 * 5;
+var x : int = 4 + 3;
+/*
+ multi-line
+ */
+set y = 3 + 3 * 5 - 1 + 6;
+set y = 3 + (2 * (5 - 1)) - 4;
+
+write "hey";
+
+def funcPow(x : real, n : int) : real {
+    var y : real = 5 -10;
+    if (y > 5) {
+        set y = 10;
+    }
+    return y;
+}

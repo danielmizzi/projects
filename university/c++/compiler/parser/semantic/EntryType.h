@@ -1,0 +1,10 @@
+#ifndef CPS2006_ENTRYTYPE_H
+#define CPS2006_ENTRYTYPE_H
+
+enum EntryType {
+
+    VAR_DECL, VAR_ASS, FUNC_DECL, FUNC_CALL, IN_EXPR
+
+};
+
+#endif //CPS2006_ENTRYTYPE_H

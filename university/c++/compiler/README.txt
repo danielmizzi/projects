@@ -1,0 +1,1 @@
+This assignment focuses on the creation of a compiler made from scratch using C++ following a custom defined language.
